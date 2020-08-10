@@ -7,7 +7,7 @@
             "configurationType": "Debug",
             "buildRoot": "${projectDir}\\out\\build\\${name}",
             "installRoot": "${projectDir}\\out\\install\\${name}",
-            "cmakeCommandArgs": "-DUSE_LIBTMX=OFF",
+            "cmakeCommandArgs": "",
             "buildCommandArgs": "",
             "ctestCommandArgs": "",
             "inheritEnvironments": [ "clang_cl_x64_x64" ],
